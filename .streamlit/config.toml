@@ -1,0 +1,6 @@
+[theme] # You have to add this line
+
+primaryColor = "#025043" # Bright Orange
+backgroundColor = "#f5ffce" # Dark Blue
+secondaryBackgroundColor = "#dfa700" # Lighter Blue
+font = "sans serif"
